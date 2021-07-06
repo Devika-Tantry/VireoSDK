@@ -56,7 +56,6 @@
     <ClCompile Include="..\source\io\FileIO.cpp" />
     <ClCompile Include="..\source\io\HttpClient.cpp" />
     <ClCompile Include="..\source\io\JavaScriptInvoke.cpp" />
-    <ClCompile Include="DebugPoint.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\source\core\library_coreHelpers.js" />
