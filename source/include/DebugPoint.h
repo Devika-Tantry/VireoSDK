@@ -1,4 +1,4 @@
-﻿// Copyright (c) 2020 National Instruments
+// Copyright (c) 2020 National Instruments
 namespace Vireo
 {
 //------------------------------------------------------------

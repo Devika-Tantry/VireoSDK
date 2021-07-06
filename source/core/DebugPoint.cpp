@@ -1,4 +1,4 @@
-﻿// Copyright (c) 2020 National Instruments
+// Copyright (c) 2020 National Instruments
 #include "DebugPoint.h"
 #include "TypeDefiner.h"
 
@@ -15,6 +15,6 @@ namespace Vireo {
     }
 
     DEFINE_VIREO_BEGIN(Execution)
-    DEFINE_VIREO_FUNCTION(DebugPoint, "p(i(String))")
-    DEFINE_VIREO_END()
+        DEFINE_VIREO_FUNCTION(DebugPoint, "p(i(String))")
+        DEFINE_VIREO_END()
 }  // namespace Vireo

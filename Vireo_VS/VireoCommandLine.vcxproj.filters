@@ -151,6 +151,9 @@
     <ClCompile Include="..\source\core\DebugPoint.cpp">
       <Filter>VireoSource\Core</Filter>
     </ClCompile>
+    <ClCompile Include="DebugPoint.cpp">
+      <Filter>VireoSource\Core</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\source\include\ConversionTable.def">
@@ -287,6 +290,9 @@
       <Filter>VireoSource\Include</Filter>
     </ClInclude>
     <ClInclude Include="..\source\include\DebugPoint.h">
+      <Filter>VireoSource\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugPoint.h">
       <Filter>VireoSource\Include</Filter>
     </ClInclude>
   </ItemGroup>
