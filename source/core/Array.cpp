@@ -1,4 +1,9 @@
 // Copyright (c) 2020 National Instruments
+// SPDX-License-Identifier: MIT
+
+/*! \file
+    \brief Native Vireo array functions
+ */
 
 #include "TypeDefiner.h"
 #include "ExecutionContext.h"
